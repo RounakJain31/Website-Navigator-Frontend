@@ -74,8 +74,7 @@ Some websites (like Google, Facebook) block iframe embedding due to security hea
 * "Open in new tab" fallback option
 
 # 🎥 Demo Video
-
-(Add demo video link here)
+ https://www.loom.com/share/1043aeaced3a457da226de50d22c5615
 
 # Conclusion
 This project demonstrates file upload handling, backend data processing, and dynamic frontend rendering using the MERN stack.
